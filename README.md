@@ -4,7 +4,10 @@ ByteAI is an AI that will play and exploit in ROBLOX games, ByteAI is currently 
 
 # How to Install and Run ByteAI
 
-ByteAI is simple to install and run, all it requires is you to copy and post the main.lua script into your executor and run!
+ByteAI is simple to install and run, all it requires is you to copy and paste this script into your executor!
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LastRussianWinter/ByteAI/main/main.lua"))()
+```
 
 # How to Use ByteAI
 
@@ -16,6 +19,4 @@ After execution, the AI should run automatically if its in a game that it works 
 
 # Support Executors
  * Synapse X
- * ~~ProtoSmasher~~
- * ~~Elysian~~
 
